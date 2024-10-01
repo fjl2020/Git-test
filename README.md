@@ -22,7 +22,7 @@ Este proyecto es utilizado para hacer una prueba de como funciona github, basado
 
 ## Contribuir
 
-Si quieres contribuir a este proyecto, por favor lee nuestro archivo CONTRIBUTING4.md.
+Si quieres contribuir a este proyecto, por favor lee nuestro archivo CONTRIBUTING4.md. modificado desde misil
 
 ## Licencia
 
