@@ -1,6 +1,6 @@
 # Proyecto clase github
 
-![Imagen del proyecto](ruta/a/tu/imagen.jpg)
+![Imagen del proyecto]("media/logo github.png")
 
 ## Descripción
 
