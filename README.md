@@ -4,15 +4,15 @@
 
 ## Descripción
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam euismod, nisi vel consectetur interdum, nisl nunc egestas nunc, vitae tincidunt nisl nunc euismod nunc. Sed euismod, nisi vel consectetur interdum, nisl nunc egestas nunc, vitae tincidunt nisl nunc euismod nunc.
+Este proyecto es utilizado para hacer una prueba de como funciona github, basado en el curso de mouredev
 
 ## Lista de items
 
-- Item 1
-- Item 2
-- Item 3
-- Item 4
-- Item 5
+- git init
+- git alias
+- git branch
+- git log
+- git otros
 
 ## Cómo empezar
 
